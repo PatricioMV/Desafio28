@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "email": "maildementira@gmail.com",
+    "timestamp": "21/9/2022 18:35:12",
+    "message": "Saludo de prueba"
+  },
+  {
+    "id": 2,
+    "email": "respuestadementira@hotmail.com",
+    "timestamp": "21/9/2022 18:35:56",
+    "message": "Respuesta de prueba"
+  },
+  {
+    "id": 3,
+    "email": "respuestadementira@hotmail.com",
+    "timestamp": "2/10/2022, 10:46:49",
+    "message": "sadadd"
+  }
+]
